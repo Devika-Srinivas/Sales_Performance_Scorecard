@@ -1,4 +1,4 @@
 # Sales_Performance_Scorecard
 
 
-![PerformanceScorecard_Image](PerformanceScorecard_Image.jpg)
+![PerformanceScorecard_Image](image/PerformanceScorecard_Image.jpg)
